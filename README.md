@@ -10,6 +10,9 @@ A client-side text remapping tool that transposes letters based on custom alphab
 - Copy-to-clipboard button
 - Light blue themed responsive design
 
+<img width="963" height="566" alt="Text Transposer" src="https://github.com/user-attachments/assets/00bc1862-c1fd-4800-b902-ab4b0f1d2c24" />
+
+
 ## 📜 Mapping Rules
 
 Letters are remapped by their alphabetic position (A=1 to Z=26) using a custom substitution table.  
