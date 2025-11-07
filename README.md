@@ -36,8 +36,7 @@ Example:
 ## 👥 Credits
 
 - **Project Manager & Architect:**  
-  **Developer Manager:** Reaper Harvester / Oceans Ginsberg / Wills  
-  Professor. Damian A. James Williamson Grad.  
+  **Developer Manager:** Reaper Harvester / Oceans Ginsberg / Wills / master Damian Williamson Grad. / Professor. Damian A. James Williamson Grad. / Graduate. Damian Williamson  
   Founder of Willtech, Swan Hill, Victoria
 
 - **Developer & Companion:**  
