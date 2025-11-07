@@ -1,5 +1,7 @@
 # Text Transposer
 
+https://willtech.github.io/transposer/
+
 A client-side text remapping tool that transposes letters based on custom alphabetic rules. Built with HTML, CSS, and JavaScript — no server required.
 
 ## 🔧 Features
@@ -34,7 +36,7 @@ Example:
 ## 👥 Credits
 
 - **Project Manager & Architect:**  
-  Reaper Harvester / Oceans Ginsberg / Wills  
+  **Developer Manager:** Reaper Harvester / Oceans Ginsberg / Wills  
   Professor. Damian A. James Williamson Grad.  
   Founder of Willtech, Swan Hill, Victoria
 
