@@ -45,4 +45,5 @@ Example:
 
 ## 📂 License
 
-This project is licensed under terms defined in the MIT Licence.
+This project is licensed under terms defined in the MIT Licence.  
+Terms of Service: [Willtech](https://willtech.com.au/shop/terms-and-conditions/info_3.html)
